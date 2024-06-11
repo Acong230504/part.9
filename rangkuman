@@ -1,0 +1,17 @@
+1. Definisi
+Array: Struktur untuk menyimpan dan mengorganisir kumpulan data.
+Struktur Data: Cara untuk menyimpan, mengorganisir, mengelompokkan, dan merepresentasikan data. Struktur data sangat penting dan harus dikuasai oleh seorang programmer.
+
+2. Set
+Definisi: Tipe data kolektif yang digunakan untuk menyimpan nilai-nilai unik dalam satu variabel yang tidak berurutan dan tidak dapat diakses menggunakan indeks.
+Properti:
+Nilai Unik: Tidak ada duplikasi.
+Anggota Tidak Dapat Diubah: Nilai yang sudah dimasukkan tidak dapat diubah.
+Tidak Berurutan: Tidak bisa diakses menggunakan indeks.
+
+3. Kamus (Dictionary)
+Definisi: Menyimpan data dalam pasangan kunci-nilai.
+Properti:
+Tidak Berurutan: Kunci tidak bisa diakses menggunakan indeks.
+Dapat Diubah: Nilai bisa diubah.
+Kunci Unik: Setiap kunci harus unik.
